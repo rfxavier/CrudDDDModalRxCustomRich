@@ -1,0 +1,12 @@
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustom\src\EP.CrudModalDDD.SharedKernel\bin\Debug\SharedKernel.dll
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustom\src\EP.CrudModalDDD.SharedKernel\bin\Debug\SharedKernel.pdb
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustom\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.csprojResolveAssemblyReference.cache
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustom\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.csproj.CoreCompileInputs.cache
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustom\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.dll
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustom\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.pdb
+D:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustomRich\src\EP.CrudModalDDD.SharedKernel\bin\Debug\SharedKernel.dll
+D:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustomRich\src\EP.CrudModalDDD.SharedKernel\bin\Debug\SharedKernel.pdb
+D:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustomRich\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.csproj.CoreCompileInputs.cache
+D:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustomRich\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.dll
+D:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustomRich\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.pdb
+D:\Users\Renato\Documents\Visual Studio 2017\Projects\CrudDDDModalRxCustomRich\src\EP.CrudModalDDD.SharedKernel\obj\Debug\SharedKernel.csprojResolveAssemblyReference.cache
